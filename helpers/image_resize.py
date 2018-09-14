@@ -1,8 +1,7 @@
-# resize pokeGAN.py
 import os
 from scipy.misc import imread, imsave, imresize
 
-src = "../data/original_data" #pokeRGB_black
+src = "../data/original_data" # original data
 dst = "../data/resized_data_128" # resized
 
 os.mkdir(dst)
