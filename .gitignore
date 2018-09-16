@@ -1,1 +1,8 @@
 ﻿model/new_logo/*
+*.index
+*.data-00000-of-00001
+*.meta
+model/new_logo/checkpoint
+model/new_logo_17_09/checkpoint
+*.index
+model/new_logo/0.index
