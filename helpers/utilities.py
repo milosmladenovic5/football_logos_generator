@@ -56,13 +56,15 @@ from six.moves import xrange
 def save_images(images, size, image_path):
   return imsave(inverse_transform(images), size, image_path)
 
-def inverse_transform(images):
-  return (images+1.)/2.
-
 def imsave(images, size, path):
   image = np.squeeze(merge(images, size)) # Remove single-dimensional entries from the shape of an array.
   return scipy.misc.imsave(path, image)
 
+def inverse_transform(images):
+  return (images+1.)/2.
+
+#input to merge function - images shape = (64, 128, 128, 3)
+#size = 8x8
 def merge(images, size):
   h, w = images.shape[1], images.shape[2]
   if (images.shape[3] in (3,4)):
