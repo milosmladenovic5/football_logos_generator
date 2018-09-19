@@ -9,6 +9,6 @@ Some generated examples (available in new_logos folder in repository):
 
 ![alt text](https://raw.githubusercontent.com/milosmladenovic5/football_logos_generator/master/new_logos/epoch%201150%20-%20solid%20examples.jpg)
 
-"-----"
+---
 
 ![alt text](https://raw.githubusercontent.com/milosmladenovic5/football_logos_generator/master/new_logos/epoch1200.jpg)
