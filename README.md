@@ -8,4 +8,5 @@ Research paper available at https://github.com/milosmladenovic5/football_logos_g
 Some generated examples:
 
 ![alt text](https://raw.githubusercontent.com/milosmladenovic5/football_logos_generator/master/new_logos/epoch%201150%20-%20solid%20examples.jpg)
+---
 ![alt text](https://raw.githubusercontent.com/milosmladenovic5/football_logos_generator/master/new_logos/epoch1200.jpg)
